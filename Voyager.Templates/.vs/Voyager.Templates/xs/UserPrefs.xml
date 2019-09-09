@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{26AA6B84-E81D-412C-9DCE-D074B93276E1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="css/bundle.min.css">
+    <Files>
+      <File FileName="css/bundle.min.css" Line="3" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Voyager.Templates" expanded="True">
+            <Node name="Voyager.Templates" expanded="True">
+              <Node name="css" expanded="True">
+                <Node name="bundle.min.css" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Voyager.Templates PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

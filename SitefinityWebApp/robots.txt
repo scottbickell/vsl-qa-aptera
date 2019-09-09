@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /sitefinity/
+Sitemap: https://www.voyagersopris.com/sitemap/sitemap.xml
